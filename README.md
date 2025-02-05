@@ -19,13 +19,13 @@ The calculation consist in the formula:
 EL = PD x LGD x EAD
 
 Where:
-EL ⇒ expected losses, causes by borrower specific factor and economic environment \n
-PD ⇒ Probability of default \n
-- The borrowers inability to pay their loan in full or on time
-LGD ⇒ Loss given default
-- The proportion of the total exposure that cannot be recovered by the lender once a default has occurred
-EAD ⇒ Exposure at default
-- The total value that a lender is exposed to when a borrower defaults
+EL ⇒ expected losses, causes by borrower specific factor and economic environment  
+PD ⇒ Probability of default  
+- The borrowers inability to pay their loan in full or on time  
+LGD ⇒ Loss given default  
+- The proportion of the total exposure that cannot be recovered by the lender once a default has occurred  
+EAD ⇒ Exposure at default  
+- The total value that a lender is exposed to when a borrower defaults  
 
 This model is based on Basel II framework and under it's guidelines is consider EL, UL, and SL that are terms used describe expected loss, unexpected loss, and specialized lending, respectively. These terms are used in the Internal Ratings-Based (IRB) approach to calculate risk-weighted assets (RWAs) and capital requirements.
 
