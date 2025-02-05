@@ -29,5 +29,5 @@ EAD ⇒ Exposure at default
 
 This model is based on Basel II framework and under it's guidelines is consider EL, UL, and SL that are terms used describe expected loss, unexpected loss, and specialized lending, respectively. These terms are used in the Internal Ratings-Based (IRB) approach to calculate risk-weighted assets (RWAs) and capital requirements.
 
-![loss distribution](images/P_loss.png)
+![loss distribution](images/P_Loss.png)
 
