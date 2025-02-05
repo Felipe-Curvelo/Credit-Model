@@ -40,7 +40,7 @@ The equation looks like this:
 Where:  
 𝑃(𝑌=1∣𝑋) is the probability of the event occurring.  
 𝛽<sub>0	</sub> is the intercept.  
-𝛽<sub>1</sub> ,𝛽<sub>2</sub> ,...𝛽<sub>n</sub> are the coefficients for the independent variables  
+𝛽<sub>1</sub> ,𝛽<sub>2</sub> ,...𝛽<sub>m</sub> are the coefficients for the independent variables  
 
 In other words, the probability of event occurring divided by the probability of event not occurring is equal to the exponential of odds.
 
