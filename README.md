@@ -19,8 +19,8 @@ The calculation consist in the formula:
 EL = PD x LGD x EAD
 
 Where:
-EL ⇒ expected losses, causes by borrower specific factor and economic environment
-PD ⇒ Probability of default
+EL ⇒ expected losses, causes by borrower specific factor and economic environment \n
+PD ⇒ Probability of default \n
 - The borrowers inability to pay their loan in full or on time
 LGD ⇒ Loss given default
 - The proportion of the total exposure that cannot be recovered by the lender once a default has occurred
