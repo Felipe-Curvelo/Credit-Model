@@ -17,7 +17,11 @@ Credit risk models need to answer the question: How much is my risk appetite? Th
 
 The calculation consists of the following formula: $$\text{EL} = \text{PD} \times \text{LGD} \times \text{EAD}$$
 
-Where: EL: Expected losses, caused by borrower-specific factors and the economic environment PD: Probability of default - The borrower’s inability to pay their loan in full or on time LGD: Loss given default - The proportion of the total exposure that cannot be recovered by the lender once a default has occurred EAD: Exposure at default - The total value that a lender is exposed to when a borrower defaults
+Where:  
+EL: Expected losses, caused by borrower-specific factors and the economic environment.  
+PD: Probability of default - The borrower’s inability to pay their loan in full or on time.  
+LGD: Loss given default - The proportion of the total exposure that cannot be recovered by the lender once a default has occurred 
+EAD: Exposure at default - The total value that a lender is exposed to when a borrower defaults
 
 This model is based on the Basel II framework. Under its guidelines, it considers EL (Expected Loss), UL (Unexpected Loss), and SL (Specialized Lending). These terms are used in the Internal Ratings-Based (IRB) approach to calculate risk-weighted assets (RWAs) and capital requirements.
 
