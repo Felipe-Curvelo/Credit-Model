@@ -31,11 +31,12 @@ This model is based on Basel II framework and under it's guidelines is consider 
 
 ![loss distribution](images/P_Loss.png)
 
-Statistic model used:  
-For this mode I choose to use logistic regression, since is widely available documentation on how to implement it in python and is the most used model in industry to calculate default.  
+## Statistic model used:  
+For this model I choose to use logistic regression, since is widely available documentation on how to implement it in python and is the most used model in industry to calculate default.  
 
 Under the logistic regression, the probability of an event can be represented as the exponential of a linear combination of independent variables and coefficients divided by 1 plus the same exponential
 
 The equation looks like this:
+![logistic regression](images/logistic.png)
 
 
