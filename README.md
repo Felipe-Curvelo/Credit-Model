@@ -4,6 +4,8 @@ Required Packages
 - python 3
 - numpy
 - scipy
-- jupyter (optional: to run jupyter notebooks)
-- matplotlib (optional: to plot results in the notebooks)
-- sklearn (optional: to fetch data)
+- sklearn
+- pandas
+- matplotlib
+- seaborn
+
