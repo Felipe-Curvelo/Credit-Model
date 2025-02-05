@@ -18,7 +18,7 @@ Credit risk models need to answer the question: How much is my risk appetite? An
 The calculation consist in the formula:
 EL = PD x LGD x EAD
 
-Where:
+Where:  
 EL ⇒ expected losses, causes by borrower specific factor and economic environment  
 PD ⇒ Probability of default  
 - The borrowers inability to pay their loan in full or on time  
@@ -27,7 +27,15 @@ LGD ⇒ Loss given default
 EAD ⇒ Exposure at default  
 - The total value that a lender is exposed to when a borrower defaults  
 
-This model is based on Basel II framework and under it's guidelines is consider EL, UL, and SL that are terms used describe expected loss, unexpected loss, and specialized lending, respectively. These terms are used in the Internal Ratings-Based (IRB) approach to calculate risk-weighted assets (RWAs) and capital requirements.
+This model is based on Basel II framework and under it's guidelines is consider EL, UL, and SL that are terms used describe expected loss, unexpected loss, and specialized lending, respectively. These terms are used in the Internal Ratings-Based (IRB) approach to calculate risk-weighted assets (RWAs) and capital requirements.  
 
 ![loss distribution](images/P_Loss.png)
+
+Statistic model used:  
+For this mode I choose to use logistic regression, since is widely available documentation on how to implement it in python and is the most used model in industry to calculate default.  
+
+Under the logistic regression, the probability of an event can be represented as the exponential of a linear combination of independent variables and coefficients divided by 1 plus the same exponential
+
+The equation looks like this:
+
 
